@@ -1,3 +1,0 @@
-sut:
-  build: .
-  echo "Tests pass!"
